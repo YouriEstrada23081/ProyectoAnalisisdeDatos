@@ -89,7 +89,7 @@ El dataset **no está incluido** en este repositorio por las restricciones de us
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/sepsis-detection.git
+git clone https://github.com/YouriEstrada23081/ProyectoAnalisisdeDatos
 cd sepsis-detection
 
 # 2. Instalar dependencias
