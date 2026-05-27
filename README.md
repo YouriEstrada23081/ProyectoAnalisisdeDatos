@@ -19,7 +19,7 @@
 ## Estructura del Repositorio
 
 ```
-sepsis-detection/
+ProyectoAnalisisdeDatos/
 ├── notebooks/
 │   └── sepsis_prediction_finalV2.ipynb   # Pipeline end-to-end completo
 ├── data/
