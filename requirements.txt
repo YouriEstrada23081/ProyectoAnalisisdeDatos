@@ -1,0 +1,15 @@
+# --- Librerías principales del Proyecto de Sepsis ---
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+xgboost==3.2.0
+jupyter==1.1.1
+ipykernel==6.29.5
+# --- Comandos para colocar en la terminal de visual por si hay algún error ---
+#pip install seaborn    -Para instalar seaborn
+#pip install scikit-learn    -Para instalar scikit-learn
+#pip install xgboost         -Para instalar xgboost
+
+#Todos estos commandos se ponen si tira algún error y con ponerlo en la terminal de visual instala los paquetes y ya se puede correr el notebook
